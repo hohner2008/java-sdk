@@ -62,7 +62,7 @@
 		<assert4j.version>3.26.3</assert4j.version>
 		<junit.version>5.10.2</junit.version>
 		<mockito.version>5.17.0</mockito.version>
-		<testcontainers.version>1.20.4</testcontainers.version>
+		<testcontainers.version>1.21.1</testcontainers.version>
 		<byte-buddy.version>1.17.5</byte-buddy.version>
 		<toxiproxy.version>1.21.0</toxiproxy.version>
 
