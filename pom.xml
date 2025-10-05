@@ -67,7 +67,7 @@
 		<toxiproxy.version>1.21.0</toxiproxy.version>
 
 		<slf4j-api.version>2.0.16</slf4j-api.version>
-		<logback.version>1.5.15</logback.version>
+		<logback.version>1.5.19</logback.version>
 		<jackson.version>2.17.0</jackson.version>
 		<springframework.version>6.2.1</springframework.version>
 
